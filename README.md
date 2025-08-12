@@ -1,5 +1,7 @@
 # 🚀 EdgeCareer – AI-Powered Career Coach  
 
+![GSSoC Logo](/gssoc%20logo.png)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > **Full Stack AI Career Coach built with React 19 + Next.js 15, Tailwind CSS, NeonDB, Prisma, Clerk Authentication, Inngest, Gemini API, and Shadcn UI.**  
@@ -174,3 +176,79 @@ docker run -p 3000:3000 your-app-name
 Replace 3000:3000 with <host-port>:<container-port> as needed.
 
 ---
+
+###### [Back to Top](#top)
+
+## 🚀 Live Demo
+
+Ready to see? Click the link below to get it directly in your browser:
+
+[**🌐 Do explore Live Demo**](edge-career.vercel.app)
+
+---
+## 💡 Suggestions & Feedback
+Feel free to open issues or discussions if you have any feedback, feature suggestions, or want to collaborate!
+
+---
+## 📄 License
+This project is licensed under the [License: MIT](https://github.com/akathedeveloper/CareSync/blob/main/License)
+
+---
+## 🌸 GirlScript Summer of Code 2025
+
+This project is proudly part of **GSSoC '25**!
+***Thanks to the amazing open-source community, contributors, and mentors for your valuable support.***
+
+---
+## 💬 Support & Contact
+
+Have ideas, feedback, or just want to say hi?
+- 🛠️ Open an issue in the repository 
+
+---
+**🌟 Show Your Support**
+
+If CareSync has helped you, please consider:
+* ⭐ **Star this repository**
+* 🍴 **Fork and contribute**
+* 📢 **Share with friends**
+
+---
+## 💖 Star the Repo if You Like It!
+
+```
+⭐ Star us — it motivates us and helps others discover the project!
+```
+
+---
+## 🤝 Contribution Guidelines
+
+We welcome **frontend, backend, AI, and design** contributions.  
+See [CONTRIBUTION.md](https://github.com/amitkumardemo/EdgeCareer/blob/main/CONTRIBUTING.md) for details.
+
+---
+
+## 📜 License
+Licensed under the [MIT License](https://github.com/amitkumardemo/EdgeCareer/blob/main/LICENSE.md).
+
+---
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Give us a Star and let's make magic! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h1>
+<p align="center">
+  Thank you for your support!
+  <a href="https://github.com/amitkumardemo/EdgeCareer/stargazers">
+    <img src="https://img.shields.io/github/stars/amitkumardemo/EdgeCareer?style=for-the-badge&logo=github&color=FFC107&logoColor=white" alt="GitHub Stars">
+  </a>
+</p>
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a><br>
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="150" height="150" />
+</div>
+
+<div align="center">
+ **👨‍💻 Developed By**
+**❤️Amit Kumar❤️**
+[GitHub](https://github.com/amitkumardemo) | [LinkedIn](https://www.linkedin.com/in/amit-kumar-686196225/)
+</div>
