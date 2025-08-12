@@ -247,8 +247,7 @@ Licensed under the [MIT License](https://github.com/amitkumardemo/EdgeCareer/blo
      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="150" height="150" />
 </div>
 
-<div align="center">
+---
  **👨‍💻 Developed By**
-**❤️Amit Kumar❤️**
+  **❤️Amit Kumar❤️**
 [GitHub](https://github.com/amitkumardemo) | [LinkedIn](https://www.linkedin.com/in/amit-kumar-686196225/)
-</div>
